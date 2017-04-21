@@ -3,7 +3,7 @@
 
 .. _backend-and-frontend:
 
-Backend and Frontend
+Backend and Fronten
 ^^^^^^^^^^^^^^^^^^^^
 
 TYPO3 CMS is divided into two areas - the *backend* and the *frontend*.
